@@ -25,6 +25,7 @@ public class Main {
         userDaoHibernate.getAllUsers();
         userDaoHibernate.cleanUsersTable();
         userDaoHibernate.dropUsersTable();
+        
 
     }
 }
